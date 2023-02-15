@@ -1,0 +1,21 @@
+{
+  "name": "ts-playzone",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This repository is where I keep all my useful TypeScript learnings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisfuzz/ts-playzone.git"
+  },
+  "keywords": ["typescript", "playground", "fun"],
+  "author": "francisfuzz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francisfuzz/ts-playzone/issues"
+  },
+  "homepage": "https://github.com/francisfuzz/ts-playzone#readme"
+}
