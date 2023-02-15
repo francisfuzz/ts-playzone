@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/francisfuzz/ts-playzone#readme",
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2",
     "typescript": "^4.9.5"
   }
 }
