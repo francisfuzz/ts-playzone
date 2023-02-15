@@ -5,7 +5,7 @@
   "description": "This repository is where I keep all my useful TypeScript learnings.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "index": "npx tsc index.ts && node index.js"
   },
   "repository": {
     "type": "git",
